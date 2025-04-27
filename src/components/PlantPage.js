@@ -13,4 +13,4 @@ function PlantPage() {
   );
 }
 
-export default PlantPage;
+export default PlantPage; 
